@@ -1,4 +1,3 @@
-layout_spectrum: 0.46360332844778895
 typography_spectrum: 0.5953413855750114
 color:
   brandStrength: 0.05210848175920546
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.46360332844778895
 name: Natty's Fun Site
 title: Natty's favorite pictures!
+description: Well worth a look!

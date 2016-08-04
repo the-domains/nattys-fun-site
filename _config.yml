@@ -6,9 +6,9 @@ color:
   saturation: 0.8780395549256355
   rhythmicContrast: 0.11078310664743185
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 name: Natty's Fun Site
